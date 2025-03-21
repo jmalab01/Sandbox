@@ -1,0 +1,68 @@
+body {
+    background-color: #f8f9fa;
+    color: #000;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.btn {
+    width: 150px;
+}
+
+.resizable {
+    resize: both;
+    overflow: auto;
+    max-width: 90vw; /* Limit max width */
+    max-height: 90vh; /* Limit max height */
+    min-width: 300px; /* Prevent it from getting too small */
+    min-height: 200px;
+    border: 2px solid #ccc;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #301934;
+    color: #fff;
+}
+
+.card.dark-mode {
+    background-color: #301934;
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+.navbar.dark-mode {
+    background-color: #301934;
+    color: #fff;
+}
+
+.modal-content.dark-mode {
+    background-color: #301934;
+    color: #fff;
+}
+
+.table.dark-mode {
+    background-color: #301934;
+    color: #fff;
+}
+
+.btn-dark-mode {
+    background-color: #301934;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+input[type="file"].dark-mode {
+    background-color: #301934;
+    color: #fff;
+    border: 1px solid #fff;
+}

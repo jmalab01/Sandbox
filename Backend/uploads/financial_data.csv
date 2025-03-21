@@ -1,0 +1,21 @@
+Transaction ID,Date,Amount,Category,Description,Vendor,Account Type
+101,2024-02-01,5000,Salary,Monthly Salary,Company A,Checking
+102,2024-02-02,-200,Utilities,Electricity Bill,PowerCorp,Checking
+103,2024-02-05,-150,Groceries,Supermarket Purchase,Local Market,Checking
+104,2024-02-10,-500,Rent,House Rent,Landlord,Checking
+105,2024-02-12,8000,Bonus,Performance Bonus,Company A,Savings
+106,2024-02-15,-45,Dining,Restaurant Dinner,Fancy Restaurant,Checking
+107,2024-02-18,-120,Entertainment,Movie Tickets,Cinema House,Credit Card
+108,2024-02-20,-1000,Loan Payment,Car Loan Installment,Bank ABC,Checking
+109,2024-02-22,2500,Investment,Stock Market Investment,Stock Broker X,Investment
+110,2024-02-25,-80,Subscription,Streaming Service,Netflix,Credit Card
+111,2024-02-28,99999,Electronics,New Laptop,Tech Store,Credit Card
+112,2024-03-01,-350,Insurance,Health Insurance Premium,HealthInsure,Checking
+113,2024-03-05,-700,Travel,Flight to New York,Airline Co,Credit Card
+114,2024-03-07,1100,Freelance Income,Freelance Design Work,Freelance Client,Savings
+115,2024-03-10,-5000,Salary Deduction,Overpaid Last Month,Company A,Checking
+116,2024-03-12,4500,Stock Dividend,Quarterly Stock Dividend,Stock Exchange,Investment
+117,2024-03-15,-230,Office Supplies,Office Chair Purchase,Office Supplies Co,Business Account
+118,2024-03-18,3000,Gift Received,Birthday Gift from Family,Family Member,Savings
+119,2024-03-20,-1200,Car Maintenance,Oil Change and Repairs,Auto Garage,Checking
+120,2024-03-25,400,Cash Withdrawal,ATM Cash Withdrawal,Bank ATM,Cash
